@@ -1,4 +1,3 @@
-![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y29kaW5nfGVufDB8fDB8fA%3D%3D&w=1000&q=80)
 <h1 align="center">Hi 👋, I'm Sankeerth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" alt="coding">
