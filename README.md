@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **20951a04g7@iare.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_5UU6SUp7hywGtaNftFlFSFAKyG0tnyn/view?usp=sharing](https://drive.google.com/file/d/1_5UU6SUp7hywGtaNftFlFSFAKyG0tnyn/view?usp=sharing)
-
+- 📄 Know about my experiences [CLICK HERE](http://13.234.234.30:4000/resume/20951A04G7)
 <h3 align="left">My coding profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/sankeerth_g7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sankeerth_g7" height="30" width="40" /></a>
